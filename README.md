@@ -2,7 +2,7 @@
 
 Meu nome é Diego Torres e atualmente curso Análise e Desenvolvimento de Sistemas na FATEC de Presidente Prudente - SP. 
 
-No momento estou focado em estudar tecnologias que me agreguem no área de desenvolvimento web. :computer:
+No momento estou focado em estudar tecnologias que me agreguem na área de desenvolvimento web. :computer:
 
 Já que chegou até aqui, fique a vontade para visualizar alguns de meus projetos. :wink:
 
