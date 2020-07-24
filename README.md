@@ -1,5 +1,11 @@
 ### Olá pessoas 👋
 
+Meu nome é Diego Torres e atualmente curso Análise e Desenvolvimento de Sistemas na FATEC de Presidente Prudente - SP. 
+
+No momento estou focado em estudar tecnologias que me agreguem no área de desenvolvimento web. :computer:
+
+Já que chegou até aqui, fique a vontade para visualizar alguns de meus projetos. :wink:
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DiegoTBC)](https://github.com/DiegoTBC)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegotbc/)](https://www.linkedin.com/in/diegotbc/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5518996709965&text=Olá!)](https://api.whatsapp.com/send?phone=5518996709965&text=Olá!)
