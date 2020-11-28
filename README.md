@@ -2,7 +2,7 @@
 
 Meu nome é Diego Torres e atualmente curso Análise e Desenvolvimento de Sistemas na FATEC de Presidente Prudente - SP. 
 
-No momento estou focado em estudar tecnologias back-end, como PHP (e seus frameworks) e SQL, mas também separando um tempo para ter uma base sólida em front-end. :computer:
+No momento estou focado em estudar tecnologias back-end, como PHP (e seus frameworks) e SQL, mas também reservo tempo para adquirir uma base sólida em front-end. :computer:
 
 Já que chegou até aqui, fique a vontade para visualizar alguns de meus projetos. :wink:
 
